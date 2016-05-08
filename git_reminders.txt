@@ -1,0 +1,17 @@
+go to this folder
+cd Github/my_max_notes
+
+ask git its status
+git status
+
+add files to staging
+git add -A
+
+put a name to your new version:
+git commit -m “message for explaining”
+
+push to the cloud your new version
+git push
+
+retrieve new version from the cloud
+git pull
